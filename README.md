@@ -1,18 +1,15 @@
-!注释
+!著名站点
+||google.com
+||youtube.com
+||eliyar.biz
 
-example.com 
+!工作需要
+||flaticon.com
+||icons8.com
 
-!匹配	http://www.example.com/foo, http://www.google.com/search?q=www.example.com
-!不匹配	https://www.example.com/
-
-||example.com 
-
-!匹配	http://example.com/foo, https://subdomain.example.com/bar
-!不匹配	http://www.google.com/search?q=example.com
-
-
-
-|http://example.com
-
-!匹配 	所有开头为https://example.com网页
-!不匹配 	短连接如http://t.co/dsadas
+!资源加载
+||ytimg.com
+||gstatic.com
+||youtube-nocookie.com
+||ggpht.com
+||googlevideo.com
